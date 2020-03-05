@@ -1,0 +1,11 @@
+C:\Users\redViti\source\repos\PruebaXml\PruebaXml\obj\Debug\PruebaXml.vbprojAssemblyReference.cache
+C:\Users\redViti\source\repos\PruebaXml\PruebaXml\obj\Debug\PruebaXml.Form1.resources
+C:\Users\redViti\source\repos\PruebaXml\PruebaXml\obj\Debug\PruebaXml.Resources.resources
+C:\Users\redViti\source\repos\PruebaXml\PruebaXml\obj\Debug\PruebaXml.vbproj.GenerateResource.cache
+C:\Users\redViti\source\repos\PruebaXml\PruebaXml\bin\Debug\PruebaXml.exe.config
+C:\Users\redViti\source\repos\PruebaXml\PruebaXml\bin\Debug\PruebaXml.exe
+C:\Users\redViti\source\repos\PruebaXml\PruebaXml\bin\Debug\PruebaXml.pdb
+C:\Users\redViti\source\repos\PruebaXml\PruebaXml\bin\Debug\PruebaXml.xml
+C:\Users\redViti\source\repos\PruebaXml\PruebaXml\obj\Debug\PruebaXml.exe
+C:\Users\redViti\source\repos\PruebaXml\PruebaXml\obj\Debug\PruebaXml.xml
+C:\Users\redViti\source\repos\PruebaXml\PruebaXml\obj\Debug\PruebaXml.pdb
